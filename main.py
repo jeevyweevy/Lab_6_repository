@@ -1,4 +1,4 @@
-
+# Sanjeev Kamath
 def encode(password):
     str_password = str(password)
     encoded_string = ""
